@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DaniMazza
 - 👀 I’m interested in Cooking, Voleybool, etc...
 - 🌱 I’m currently learning JS, Java and Front-end general
-- 📫 How to reach me emial = danielguilloxmazza@gmail.com, instagram = @D_Mazzarolo,
+- 📫 How to reach me email = danielguilloxmazza@gmail.com, instagram = @D_Mazzarolo,
      Linkdin = https://www.linkedin.com/in/daniel-mazzarolo-5ab043262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: They/them
 
