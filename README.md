@@ -1,4 +1,4 @@
-  <h1> Welcome to my profile, I'm Dani </h1>
+  <h1> Welcome to my profile, I'm Dani 🏳️‍🌈 </h1>
 
   <div>
          <h2>  I like volleyball 🏐, cooking 🍳 and listening to music 🎧</h2>
