@@ -20,6 +20,12 @@
             <img width= 8% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           </span>
     </div>
+
+  <div>
+<a href="https://github.com/DaniMazza">
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DaniMazza&show_icons=true&theme=dark&include_all_commits=true%count_private=true"/>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMazza&layout=compact&langs_count=16&theme=dark"/>
+</div>
      <div>
         <h2>📫🔍 How to reach me:</h2>
         <a href="https://www.instagram.com/d_mazzarolo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
