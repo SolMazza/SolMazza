@@ -23,8 +23,8 @@
 <br
   <div>
 <a href="https://github.com/DaniMazza">
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DaniMazza&show_icons=true&theme=dark&include_all_commits=true%count_private=true"/>
-<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMazza&layout=compact&langs_count=16&theme=dark"/>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=SolMazza&show_icons=true&theme=dark&include_all_commits=true%count_private=true"/>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolMazza&layout=compact&langs_count=16&theme=dark"/>
 </div>
      <div>
         <h2>📫🔍 How to reach me:</h2>
